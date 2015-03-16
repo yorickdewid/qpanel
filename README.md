@@ -16,5 +16,4 @@ To download QPanel please use the links found on Github.
 
 ##License agreement
 
-QPanel is licensed under the GNU GENERAL PUBLIC LICENSE (GPL v3) you can view a copy of this license either by opening the LICENSE file in the root of this folder or by visiting:- http://www.gnu.org/copyleft/gpl.html
-
+BSD &copy; 2015
