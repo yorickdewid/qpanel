@@ -1,0 +1,23 @@
+<div class="zmodule_content panel" id="zmodule_header_<@ ModuleName @>">
+    <div class="panel-heading">
+        <img src="<@ ModuleIcon @>" width="35" height="35" border="0" alt="<@ ModuleName @>">
+
+        <div class="zmodule_title">
+            <@ ModuleName @>
+        </div>
+
+        <div class="zmodule_desc" id="zmodule_desc_<@ ModuleName @>"><@ ModuleDesc @></div>
+
+    </div>
+
+
+    <div id="contentwrapper_phpinfo">
+        <br>
+        <button class="btn btn-large btn-primary" type="submit" onclick="window.open('etc/apps/phpinfo/')"><: View full PHP configuration :></button>
+        <br><br>
+        <div class="zform_wrapper" style="width:100%">
+            <@ PHPInfo @>
+        </div>
+    </div>
+
+</div>

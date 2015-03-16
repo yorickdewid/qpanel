@@ -1,0 +1,6 @@
+/nbproject
+.DS_Store
+/log.txt
+/cnf/db.php
+/.vagrant
+.idea
